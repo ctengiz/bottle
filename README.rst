@@ -13,11 +13,7 @@
 
 .. image:: https://coveralls.io/repos/github/bottlepy/bottle/badge.svg?branch=master
    :target: https://coveralls.io/github/bottlepy/bottle?branch=master
-   :alt: Coverage 
-
-.. image:: https://img.shields.io/pypi/dm/bottle.svg
-    :target: https://pypi.python.org/pypi/bottle/
-    :alt: Downloads
+   :alt: Coverage
 
 .. image:: https://img.shields.io/pypi/v/bottle.svg
     :target: https://pypi.python.org/pypi/bottle/
@@ -83,4 +79,4 @@ License
 
 Code and documentation are available according to the MIT License (see LICENSE__).
 
-The Bottle logo however is *NOT* covered by that license. It is allowed to use the logo as a link to the bottle homepage or in direct context with the unmodified library. In all other cases please ask first.
+The Bottle logo however is *NOT* covered by that license. It is allowed to use the logo as a link to the bottle homepage or in direct context with the unmodified library. In all other cases, please ask first.
